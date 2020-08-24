@@ -1,2 +1,2 @@
 # python
-This folder includes our python projects
+This folder includes our [marvellous] python projects 🚀
